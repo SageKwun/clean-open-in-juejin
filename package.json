@@ -1,0 +1,24 @@
+{
+  "name": "clean-open-in-juejin",
+  "version": "1.0.0",
+  "description": "A script for Tampermonkey to open outside link directly",
+  "main": "script.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SageKwun/cleanOpenInJuejin.git"
+  },
+  "keywords": [
+    "掘金",
+    "juejin",
+    "外链"
+  ],
+  "author": "Sage Kwun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SageKwun/cleanOpenInJuejin/issues"
+  },
+  "homepage": "https://github.com/SageKwun/cleanOpenInJuejin#readme"
+}
